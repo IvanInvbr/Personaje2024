@@ -4,7 +4,7 @@ DeadMau5
 ## Creador 
 Nombre del alumno: Jorge Iván Martínez Rodríguez
 ## Explicación de funcionamiento
-Mi personaje al momento de que se acerca a 15 centimetros comienza a bailar, etc. (Luz, sonido y movimiento)
+Mi personaje tendra leds enlazados a la música llevando un ritmo de la música reproducida
 ##Materiales a utilizar
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
@@ -39,4 +39,16 @@ https://wokwi.com/projects/410243005152867329
 ## Videos
 
 ## Captura de pantalla de los examenes de cisco C
+Examen 1
+<img src = "https://github.com/user-attachments/assets/a7ec655b-5387-4377-ac47-736dddd555cf" width=200>
+Examen 2
+<img src = "https://github.com/user-attachments/assets/280be6c1-a8d7-44ea-aeab-77115d4ea7a1" width=200>
+Examen 3
+<img src = "https://github.com/user-attachments/assets/7d8013bf-6159-4c15-a968-4ac39d161b92" width=200>
+Examen 4
+<img src = "https://github.com/user-attachments/assets/348fabbd-b4ee-48e5-9c45-60bc8e4f9835" width=200>
+Exmaen 5
+<img src = "https://github.com/user-attachments/assets/faa49a2a-f0af-40c7-bdb3-e9de19baff59" width=200>
+Examen 6
+<img src = "https://github.com/user-attachments/assets/f63ac364-1a79-448f-bb6b-1dc6e515b756" width=200>
 
