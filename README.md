@@ -1,6 +1,6 @@
 # Personaje2024
 ## Nombre del Personaje
-Santa
+DeadMau5
 ## Creador 
 Nombre del alumno: Jorge Iván Martínez Rodríguez
 ## Explicación de funcionamiento
@@ -14,8 +14,10 @@ Mi personaje al momento de que se acerca a 15 centimetros comienza a bailar, etc
 |Periodico|<img src= "https://github.com/user-attachments/assets/8c48465d-d049-4332-901c-57549a105cdb" width=50>|2-5|20-100|
 |Unisel|<img src= "https://github.com/user-attachments/assets/b2503890-cd97-4d9c-ab70-3421fd439e95" width=50>|5-10|50-200|
 |Tubos de aluminio|<img src= "https://github.com/user-attachments/assets/ee872b7a-d7ab-41c6-b33e-2b21700270a3" width=50>|4|50-100|
-|Madera|<img src= "https://github.com/user-attachments/assets/c4a0d575-507b-4ffd-aa96-23f5968a7269" width=50>| 
-
+|Madera|<img src= "https://github.com/user-attachments/assets/c4a0d575-507b-4ffd-aa96-23f5968a7269" width=50>|2|50-100|
+|Pintura|<img src= "https://github.com/user-attachments/assets/14eb203a-0236-4bbb-b475-fb4d73dd4f7f" width=50>|1|100-200|
+|Brillantina|<img src= "https://github.com/user-attachments/assets/60f8e7a6-e8f9-469f-a6ab-045d41fda022" width=50>|1|25-50|
+|Leds|<img src= "https://github.com/user-attachments/assets/f17b1d63-1d5b-4700-995e-6d0658c9c12d" width=50>|1|100-250|
 
 
 ## Software a utilizar
@@ -29,10 +31,12 @@ Mi personaje al momento de que se acerca a 15 centimetros comienza a bailar, etc
 |...||
 
 ## Dibujo del personaje
-Imagena realizada a mano 
+<img src = "https://github.com/user-attachments/assets/598173dd-477f-44a6-a079-0a1180132127" width=150>
+
 
 ## Enlaces de la simulación de wokwi
-
+https://wokwi.com/projects/410243005152867329
 ## Videos
 
 ## Captura de pantalla de los examenes de cisco C
+
