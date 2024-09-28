@@ -33,15 +33,14 @@ Mi personaje tendra leds enlazados a la música llevando un ritmo de la música 
 ## Dibujo del personaje
 <img src = "https://github.com/user-attachments/assets/598173dd-477f-44a6-a079-0a1180132127" width=150>
 
-
 ## Enlaces de la simulación de wokwi
 https://wokwi.com/projects/410243005152867329
 ## Videos
 
 ## Captura de pantalla de los examenes de cisco C
-\nExamen 1
+Examen 1
 <img src = "https://github.com/user-attachments/assets/a7ec655b-5387-4377-ac47-736dddd555cf" width=200>
-\nExamen 2
+Examen 2
 <img src = "https://github.com/user-attachments/assets/280be6c1-a8d7-44ea-aeab-77115d4ea7a1" width=200>
 Examen 3
 <img src = "https://github.com/user-attachments/assets/7d8013bf-6159-4c15-a968-4ac39d161b92" width=200>
