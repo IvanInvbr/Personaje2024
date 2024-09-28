@@ -39,9 +39,9 @@ https://wokwi.com/projects/410243005152867329
 ## Videos
 
 ## Captura de pantalla de los examenes de cisco C
-Examen 1
+\nExamen 1
 <img src = "https://github.com/user-attachments/assets/a7ec655b-5387-4377-ac47-736dddd555cf" width=200>
-Examen 2
+\nExamen 2
 <img src = "https://github.com/user-attachments/assets/280be6c1-a8d7-44ea-aeab-77115d4ea7a1" width=200>
 Examen 3
 <img src = "https://github.com/user-attachments/assets/7d8013bf-6159-4c15-a968-4ac39d161b92" width=200>
